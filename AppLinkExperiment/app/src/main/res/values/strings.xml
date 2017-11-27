@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppLinkExperiment</string>
+    <string name="app_link_launched_successfully">App Link Launched Successfully!</string>
+    <string name="asset_statements" translatable="false">[{\n  \"relation\": [\"delegate_permission/common.handle_all_urls\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"https://link.example.com:9696\",\n  }\n}]</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BrowserExperiment</string>
+    <string name="title_wv_override">WV Override</string>
+    <string name="title_wv">WV</string>
+    <string name="title_cct">CCT</string>
+
+    <string name="cct_fragment_text">Use Chrome Custom Tab</string>
+    <string name="cct_fragment_launch_button">Launch</string>
+
+    <string name="initial_site_url">http://wdawson.okta1.com:9595</string>
+</resources>

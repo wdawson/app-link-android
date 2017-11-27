@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.okta.applinkexperiment",
+    "sha256_cert_fingerprints":
+    ["F5:9A:ED:39:3C:59:4F:3D:42:9F:BA:E4:C4:D1:41:56:70:1E:B3:4B:4F:5F:35:B0:A6:84:C2:BF:C0:BA:28:84"]
+  }
+}]
